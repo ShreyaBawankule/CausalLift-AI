@@ -247,7 +247,7 @@ python test_api.py
 
 ### Project Authors
 
-- **Shreya Bawankule** — [shreyabawankule525@gmail.com](mailto:shreyabawankule525@gmail.com)
+- **Shreya Bawankule** — [shreyabawankule0@gmail.com](mailto:shreyabawankule525@gmail.com)
 - **Mayur Shende** — [mayurshende200121@gmail.com](mailto:mayurshende200121@gmail.com)
 
 ### 🎓 Academic Details
