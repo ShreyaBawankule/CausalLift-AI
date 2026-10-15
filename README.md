@@ -233,34 +233,26 @@ python test_api.py
 
 ---
 
-## 👩‍💻 Project Authors & Academic Credentials
+## 💼 Recruiter & Defense Interview Highlights
 
-* **Authors:**
-  * **Shreya Bawankule** (`shreyabawankule525@gmail.com`)
-  * **Mayur Shende** (`mayurshende200121@gmail.com`)
-* **Degree:** Bachelor of Technology in Robotics & Artificial Intelligence with **Honors in Data Science**
-* **Project Supervisors:**
-  * **Prof. Sakshi Chakole**, Assistant Professor (Project Guide)
-  * **Dr. (Mrs.) M. V. Vyawahare**, Head of Department
-* **Department:** Department of Robotics and Artificial Intelligence
-* **Institution:** Priyadarshini College of Engineering (PCE), Nagpur, Maharashtra, India
-* **Affiliated University:** Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)
+- **Why not standard classification?** Standard classification estimates an outcome probability, while uplift modeling aims to estimate how an outcome changes because of an intervention. A high-risk customer may not benefit from an incentive.
+- **How are counterfactuals evaluated?** Individual treatment and control outcomes cannot both be observed for one person. Qini curves and AUUC can be used to evaluate ranking quality on suitable holdout data, especially randomized experiments.
+- **What is the business value?** Better targeting may reduce wasted incentive spending, prioritize customers likely to respond, and avoid contacting customers who may react negatively. Business impact should be reported using measured results from the project's evaluation.
 
 ---
 
-## 📚 Academic Citation (BibTeX)
+## 👩‍💻 Project Team & Academic Affiliation
 
-```bibtex
-@inproceedings{bawankule2026causallift,
-  title     = {CausalLift AI: An AI-Powered Prescriptive Causal Uplift and Decision Intelligence System for Precision Customer Retention and Marketing Optimization},
-  author    = {Bawankule, Shreya and Shende, Mayur and Chakole, Sakshi and Vyawahare, M. V.},
-  booktitle = {Proceedings of the 2026 IEEE International Conference on Emerging Trends in Engineering & Technology (ICETET)},
-  year      = {2026},
-  address   = {Nagpur, India}
-}
-```
+### Project Authors
+
+- **Shreya Bawankule**
+- **Mayur Shende**
+
+### Academic Details
+
+- **Branch:** Robotics and Artificial Intelligence
+- **Honors Specialization:** Data Science
+- **Project Type:** Final-Year Honors Project
+- **Project Domain:** Data Science & Decision Intelligence
 
 ---
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
