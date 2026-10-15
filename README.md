@@ -241,18 +241,22 @@ python test_api.py
 
 ---
 
+---
+
 ## 👩‍💻 Project Team & Academic Affiliation
 
 ### Project Authors
 
-- **Shreya Bawankule**
-- **Mayur Shende**
+- **Shreya Bawankule** — [shreyabawankule525@gmail.com](mailto:shreyabawankule525@gmail.com)
+- **Mayur Shende** — [mayurshende200121@gmail.com](mailto:mayurshende200121@gmail.com)
 
-### Academic Details
+### 🎓 Academic Details
 
-- **Branch:** Robotics and Artificial Intelligence
-- **Honors Specialization:** Data Science
-- **Project Type:** Final-Year Honors Project
-- **Project Domain:** Data Science & Decision Intelligence
+| **Category** | **Details** |
+|---|---|
+| Branch | Robotics and Artificial Intelligence |
+| Honors Specialization | Data Science |
+| Project Type | Final-Year Honors Project |
+| Project Domain | Data Science & Decision Intelligence |
 
 ---
